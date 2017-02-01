@@ -21,6 +21,12 @@ A responsive application that allows the user to add information about a book us
   <img src="https://github.com/crysmeira/Digital-Library/blob/master/digital_library3.png" width="800">
 </p>
 
+## Link
+
+https://cm-library.herokuapp.com/books
+
+* If you want to add a book information to the catalog, avoid using inappropriate language.
+
 ## License
 
 GNU GENERAL PUBLIC LICENSE
